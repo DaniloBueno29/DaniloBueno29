@@ -1,5 +1,5 @@
-## Olá, eu sou o Danilo Bueno.
-## Seja bem vindo, visitante ☺️
+## Hi, welcome to my github 😊
+## 
 
 <div align="center">
   <a href="https://github.com/danilobueno29">
